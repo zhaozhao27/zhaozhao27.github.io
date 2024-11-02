@@ -1,16 +1,44 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://zhaozhao.github.io"
+
+# The site title and description; used in feeds by default.
+title = "昭昭"
+description = "一些调试杂记"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+compile_sass = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# When set to "true", a feed is automatically generated.
+generate_sitemap = true
+# theme = "adidoks"
+# The taxonomies to be rendered for the site and their configuration of the default languages
+# Example:
+#     taxonomies = [
+#       {name = "tags", feed = true}, # each tag will have its own feed
+#       {name = "tags"}, # you can have taxonomies with the same name in multiple languages
+#       {name = "categories", paginate_by = 5},  # 5 items per page for a term
+#       {name = "authors"}, # Basic definition: no feed or pagination
+#     ]
+#
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "tags", feed = true},
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
+menu_links = [
+    { url = "$BASE_URL/", name = "首页" },
+    { url = "$BASE_URL/posts/", name = "博客" },
+    { url = "https://notes.qingshan.dev", name = "笔记" },
+    { url = "$BASE_URL/projects/", name = "项目" },
+    { url = "$BASE_URL/contact/", name = "联系" },
+]
