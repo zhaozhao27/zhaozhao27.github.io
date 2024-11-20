@@ -1,3 +1,9 @@
 [submodule "themes/adidoks"]
 	path = themes/adidoks
 	url = https://github.com/aaranxu/adidoks.git
+[submodule "themes/hayflow"]
+	path = themes/hayflow
+	url = https://gitlab.com/cyril-marpaud/hayflow.git
+[submodule "themes/duckquill"]
+	path = themes/duckquill
+	url = https://codeberg.org/daudix/duckquill.git
