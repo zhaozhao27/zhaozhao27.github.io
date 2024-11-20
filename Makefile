@@ -1,7 +1,7 @@
 .PHONY: serve build publish clean display
 
 serve:
-	zola serve
+	zola serve --open
 
 build:
 	zola build
