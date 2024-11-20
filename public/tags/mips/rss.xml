@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>昭昭 - Mips</title>
+      <link>https://zhaozhao.github.io</link>
+      <description>一些调试杂记</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://zhaozhao.github.io/tags/mips/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 02 Nov 2024 18:35:09 -0700</lastBuildDate>
+      <item>
+          <title>使用 Rust 为mipsel 平台交叉编译</title>
+          <pubDate>Sat, 02 Nov 2024 18:35:09 -0700</pubDate>
+          <author>zhaozhao</author>
+          <link>https://zhaozhao.github.io/blog/setup-rust-with-mipsel/</link>
+          <guid>https://zhaozhao.github.io/blog/setup-rust-with-mipsel/</guid>
+          <description xml:base="https://zhaozhao.github.io/blog/setup-rust-with-mipsel/"></description>
+      </item>
+    </channel>
+</rss>
