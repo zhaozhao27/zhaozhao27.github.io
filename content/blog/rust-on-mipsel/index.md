@@ -21,7 +21,7 @@ tags = ["Rust", "Mips", "rust-no-std"]
 #### 下载 [rust-lang](https://github.com/rust-lang/rust) 源码 
 
 ```bash
-git clone https://github.com/rust-lang/rust.git` 
+git clone https://github.com/rust-lang/rust.git
 ```
 然后基于 发布版本的tag 创建分支
 
