@@ -2,27 +2,27 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>昭昭</title>
-      <link>https://zhaozhao.github.io</link>
+      <link>https://zhaozhao27.github.io/zhaozhao27.github.io/</link>
       <description>一些调试杂记</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://zhaozhao.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://zhaozhao27.github.io/zhaozhao27.github.io/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Sat, 02 Nov 2024 18:35:09 -0700</lastBuildDate>
       <item>
           <title>使用 Rust 为mipsel 平台交叉编译</title>
           <pubDate>Sat, 02 Nov 2024 18:35:09 -0700</pubDate>
           <author>zhaozhao</author>
-          <link>https://zhaozhao.github.io/blog/setup-rust-with-mipsel/</link>
-          <guid>https://zhaozhao.github.io/blog/setup-rust-with-mipsel/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/setup-rust-with-mipsel/"></description>
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/setup-rust-with-mipsel/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/setup-rust-with-mipsel/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/setup-rust-with-mipsel/"></description>
       </item>
       <item>
           <title>The Quill of Duck</title>
           <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
           <author>Scrooge McDuck</author>
-          <link>https://zhaozhao.github.io/blog/the-quill-of-duck/</link>
-          <guid>https://zhaozhao.github.io/blog/the-quill-of-duck/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/the-quill-of-duck/">&lt;blockquote class=&quot;tip&quot;&gt;
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/the-quill-of-duck/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/the-quill-of-duck/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/the-quill-of-duck/">&lt;blockquote class=&quot;tip&quot;&gt;
 	&lt;p class=&quot;alert-title&quot;&gt;
 		&lt;i class=&quot;icon&quot;&gt;&lt;&#x2F;i&gt;Tip&lt;&#x2F;p&gt;
 	&lt;p&gt;Recommended banner dimensions are 2:1 aspect ratio and 1920x960 resolution.&lt;br &#x2F;&gt;
@@ -38,7 +38,7 @@ Other sizes will also work, but will be cut off at the bottom&#x2F;won’t be hi
 &lt;p&gt;This is the story of a man named &lt;em&gt;Stanley&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;Stanley&lt;&#x2F;em&gt; worked for a company in a big building where he was Employee &lt;code&gt;#427&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
 &lt;figure&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;zhaozhao.github.io&#x2F;blog&#x2F;the-quill-of-duck&#x2F;the-office.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;zhaozhao27.github.io&#x2F;zhaozhao27.github.io&#x2F;blog&#x2F;the-quill-of-duck&#x2F;the-office.webp&quot; alt=&quot;The Office&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;figcaption&gt;The Office where Stanley works, it has yellow floor and beige walls&lt;&#x2F;figcaption&gt;
 &lt;&#x2F;figure&gt;
 &lt;p&gt;Employee &lt;code&gt;#427&lt;&#x2F;code&gt;’s job was simple: he sat at his desk in Room &lt;code&gt;427&lt;&#x2F;code&gt; and he pushed buttons on a keyboard.&lt;&#x2F;p&gt;
@@ -60,9 +60,9 @@ Other sizes will also work, but will be cut off at the bottom&#x2F;won’t be hi
           <title>Loooooong Loooooong Loooooong Loooooong Loooooong Man</title>
           <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
           <author>Looong Looong Man</author>
-          <link>https://zhaozhao.github.io/blog/long-long-man/</link>
-          <guid>https://zhaozhao.github.io/blog/long-long-man/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/long-long-man/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;en&#x2F;e&#x2F;ed&#x2F;Long_Long_Man.jpeg#end#spoiler&quot; alt=&quot;Long Long Man&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/long-long-man/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/long-long-man/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/long-long-man/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;en&#x2F;e&#x2F;ed&#x2F;Long_Long_Man.jpeg#end#spoiler&quot; alt=&quot;Long Long Man&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea.&lt;&#x2F;p&gt;
@@ -72,9 +72,9 @@ Other sizes will also work, but will be cut off at the bottom&#x2F;won’t be hi
           <title>Dolor</title>
           <pubDate>Sat, 03 Jan 1970 00:00:00 +0000</pubDate>
           <author>John Dolor</author>
-          <link>https://zhaozhao.github.io/blog/dolor/</link>
-          <guid>https://zhaozhao.github.io/blog/dolor/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/dolor/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/dolor/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/dolor/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/dolor/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea.&lt;&#x2F;p&gt;
 </description>
@@ -83,9 +83,9 @@ Other sizes will also work, but will be cut off at the bottom&#x2F;won’t be hi
           <title>Ipsum</title>
           <pubDate>Fri, 02 Jan 1970 00:00:00 +0000</pubDate>
           <author>John Ipsum</author>
-          <link>https://zhaozhao.github.io/blog/ipsum/</link>
-          <guid>https://zhaozhao.github.io/blog/ipsum/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/ipsum/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/ipsum/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/ipsum/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea.&lt;&#x2F;p&gt;
 </description>
@@ -94,9 +94,9 @@ Other sizes will also work, but will be cut off at the bottom&#x2F;won’t be hi
           <title>Lorem</title>
           <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
           <author>John Lorem</author>
-          <link>https://zhaozhao.github.io/blog/lorem/</link>
-          <guid>https://zhaozhao.github.io/blog/lorem/</guid>
-          <description xml:base="https://zhaozhao.github.io/blog/lorem/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
+          <link>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/lorem/</link>
+          <guid>https://zhaozhao27.github.io/zhaozhao27.github.io/blog/lorem/</guid>
+          <description xml:base="https://zhaozhao27.github.io/zhaozhao27.github.io/blog/lorem/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet transferre in voluptatem, ut postea.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea bona praeterita grata recordatione renovata delectant. Est.&lt;&#x2F;p&gt;
 &lt;p&gt;Ullus investigandi veri, nisi inveneris, et quaerendi defatigatio turpis est, cum esset accusata et vituperata ab Hortensio. Qui liber cum et mortem contemnit, qua qui est imbutus quietus esse numquam potest. Praeterea.&lt;&#x2F;p&gt;
 </description>
