@@ -1,6 +1,6 @@
 # The URL the site will be built for
 title = "昭昭"
-base_url = "https://zhaozhao27.github.io/zhaozhao27.github.io/"
+base_url = "https://zhaozhao27.github.io/"
 description = "一些调试杂记"
 
 compile_sass = true
