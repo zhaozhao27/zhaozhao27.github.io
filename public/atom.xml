@@ -23,8 +23,7 @@
         <link rel="alternate" type="text/html" href="https://zhaozhao27.github.io/blog/rust-on-mipsel/"/>
         <id>https://zhaozhao27.github.io/blog/rust-on-mipsel/</id>
         
-        <content type="html" xml:base="https://zhaozhao27.github.io/blog/rust-on-mipsel/">&lt;h1 id=&quot;wei-mipsel-shi-yong-uclibcku-de-ping-tai-bian-yi-rustgong-ju-lian&quot;&gt;为mipsel 使用uclibc库的平台编译rust工具链&lt;&#x2F;h1&gt;
-&lt;p&gt;最近在使用mipsel的平台进行应用开发，于是心血来潮要在mipsel平台上运行一个Rust的工程&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://zhaozhao27.github.io/blog/rust-on-mipsel/">&lt;p&gt;最近在使用mipsel的平台进行应用开发，于是心血来潮要在mipsel平台上运行一个Rust的工程&lt;&#x2F;p&gt;
 &lt;p&gt;目前Rust在官方不再对mipsel-unknown-linux-uclibc 专门的支持，如果我们想为这个平台编译Rust程序，一种方法是在Cargo 中加入 &lt;code&gt;-Zbuild-std&lt;&#x2F;code&gt;指令，这样便可以手动编译对应目标的Rust的标准库，例如 &lt;code&gt;cargo build -Zbuild-std --target mipsel-unknown-linux-uclibc --release&lt;&#x2F;code&gt;，但是每次都这样编译的话，还是有些许麻烦，这里就记录一下为 &lt;code&gt;mipsel-unknown-linux-uclibc&lt;&#x2F;code&gt;这个目标制作工具链的过程&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;zhun-bei-gong-zuo&quot;&gt;准备工作&lt;&#x2F;h3&gt;
 &lt;p&gt;首先是环境配置 ，我们需要 先安装官方的Rust工具链，这里就不再进行详细介绍 ，如果有网络问题导致安装失败 ，推荐搜索关键词 ，           “Rustup 安装 字节源”&lt;&#x2F;p&gt;
