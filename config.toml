@@ -92,7 +92,7 @@ fix_contrast_dark = true
 # URL to website's issue tracker
 issues_url = "https://codeberg.org/daudix/duckquill/issues"
 # URL to website's source code
-source_url = "https://codeberg.org/daudix/duckquill"
+source_url = "https://github.com/zhaozhao27"
 # Additional CSS styles; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 #
@@ -174,10 +174,9 @@ show_repo = true
 # See https://www.getzola.org/documentation/content/linking/#internal-links
 links = [
 	{ url = "@/blog/_index.md", name = "Blog" },
-	{ name = "Links", menu = [
-		{ url = "@/demo/index.md", name = "Demo" },
-		{ url = "@/mods/index.md", name = "Mods" }
-	] },
+	{ url = "@/demo/index.md", name = "Demo" },
+	{ url = "@/mods/index.md", name = "Mods" }
+	#{ name = "Links", menu = [] },
 	#{ url = "https://daudix.one/coffee/", name = "Coffee" }
 ]
 
