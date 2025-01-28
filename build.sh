@@ -1,6 +1,6 @@
 #!/bin/bash
-git clone git@github.com:zhaozhao27/zhaozhao27.github.io.git
-cd zhaozhao27.github.io/
+#git clone git@github.com:zhaozhao27/zhaozhao27.github.io.git -c core.symlinks=true
+#cd zhaozhao27.github.io/
 git submodule init
 git submodule add https://gitlab.com/cyril-marpaud/hayflow.git themes/hayflow
 git submodule add https://codeberg.org/daudix/duckquill.git themes/duckquill

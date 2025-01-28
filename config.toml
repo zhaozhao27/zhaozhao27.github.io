@@ -1,6 +1,7 @@
 # The URL the site will be built for
 title = "昭昭"
 base_url = "https://zhaozhao27.github.io/"
+#base_url = "http://127.0.0.1/"
 description = "一些调试杂记"
 
 compile_sass = true
@@ -172,12 +173,12 @@ show_repo = true
 # i.e. "@/blog/_index.md".
 # See https://www.getzola.org/documentation/content/linking/#internal-links
 links = [
+	{ url = "@/blog/_index.md", name = "Blog" },
 	{ name = "Links", menu = [
-		{ url = "@/blog/_index.md", name = "Blog" },
 		{ url = "@/demo/index.md", name = "Demo" },
 		{ url = "@/mods/index.md", name = "Mods" }
 	] },
-	{ url = "https://daudix.one/coffee/", name = "Coffee" }
+	#{ url = "https://daudix.one/coffee/", name = "Coffee" }
 ]
 
 [extra.footer]
@@ -187,7 +188,7 @@ links = [
 	{ url = "@/blog/_index.md", name = "Blog" },
 	{ url = "@/demo/index.md", name = "Demo" },
 	{ url = "@/mods/index.md", name = "Mods" },
-	{ url = "https://daudix.one/coffee/", name = "Coffee" }
+	#{ url = "https://daudix.one/coffee/", name = "Coffee" }
 ]
 # Social links in the footer.
 # Any URL-encoded SVG can be used as an icon.
